@@ -1,0 +1,8 @@
+Package: 
+Name: 
+Version: 
+Architecture: iphoneos-arm
+Description: Control iOS proxy settings via CLI
+Maintainer: danylokos
+Author: danylokos
+Section: Utils

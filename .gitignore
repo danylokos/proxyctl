@@ -1,0 +1,8 @@
+.DS_Store
+
+proxyctl
+proxyctl.o
+
+*.deb
+
+.vscode
